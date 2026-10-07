@@ -1,4 +1,6 @@
 import { Header } from "./Header";
 import { Footer } from "./Footer";
 
-export function AppShell({ children }) { return <div className="min-h-screen"><Header /><main>{children}</main><Footer /></div>; }
+import { whatsappUrl } from "../../config/template.config";
+
+export function AppShell({ children }) { return <div className="min-h-screen"><Header /><main>{children}</main><Footer /><a className="whatsapp-float" href={whatsappUrl()} target="_blank" rel="noopener noreferrer" aria-label="Conversar com Walker Metzker pelo WhatsApp" title="Conversar pelo WhatsApp"><svg viewBox="0 0 32 32" aria-hidden="true"><path fill="currentColor" d="M16.03 3a12.84 12.84 0 0 0-11.1 19.31L3 29l6.89-1.81A12.86 12.86 0 1 0 16.03 3Zm0 23.36a10.5 10.5 0 0 1-5.35-1.46l-.38-.23-4.08 1.07 1.09-3.98-.25-.41a10.53 10.53 0 1 1 8.97 5.01Zm5.78-7.88c-.31-.16-1.85-.91-2.14-1.02-.29-.1-.5-.16-.71.16-.21.31-.81 1.02-.99 1.23-.18.21-.36.24-.68.08-.31-.16-1.33-.49-2.53-1.56-.94-.84-1.57-1.87-1.75-2.18-.18-.32-.02-.48.14-.63.14-.14.31-.37.47-.55.16-.18.21-.31.31-.52.11-.21.06-.39-.02-.55-.08-.16-.71-1.7-.97-2.33-.25-.61-.51-.53-.71-.54h-.6c-.21 0-.55.08-.84.39-.29.32-1.09 1.08-1.09 2.62 0 1.54 1.12 3.03 1.28 3.24.16.21 2.2 3.36 5.33 4.71.74.32 1.32.51 1.77.65.75.24 1.44.21 1.98.13.61-.09 1.85-.76 2.11-1.49.26-.73.26-1.36.18-1.49-.07-.13-.28-.21-.6-.37Z"/></svg></a></div>; }
