@@ -1,0 +1,1 @@
+export const defaultBrand={logoText:"WM",colors:{primary:"#9B824D",primaryStrong:"#8b6834",accent:"#d8bd88",surface:"#ffffff",background:"#f7f5f0",text:"#101010",muted:"#65717e"},fonts:{display:"Georgia, 'Times New Roman', serif",body:"Inter, Arial, sans-serif"},radius:"4px"};

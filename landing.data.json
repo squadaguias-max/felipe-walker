@@ -1,0 +1,94 @@
+{
+  "project": {
+    "name": "Walker Metzker — Salário-maternidade",
+    "displayName": "Walker Metzker",
+    "conversionAction": "WhatsApp",
+    "slug": "walker-metzker",
+    "sourceTemplate": "Template 1",
+    "sourceVersion": "1.2.0"
+  },
+  "professional": {
+    "name": "Fellipe Walker",
+    "officeName": "Walker Metzker",
+    "oab": "",
+    "area": "Salário-maternidade",
+    "city": "",
+    "biography": "Orientação jurídica para compreender sua situação previdenciária e os caminhos possíveis para solicitar o salário-maternidade. Cada caso depende de uma análise individualizada."
+  },
+  "contact": {
+    "whatsapp": "5533988881214",
+    "whatsappMessage": "Olá! Vim pelo site da Walker Metzker e gostaria de orientação sobre salário-maternidade.",
+    "email": "contato@walkermetzker.com.br",
+    "emailCopy": "fellipewalker83@gmail.com",
+    "instagram": "https://www.instagram.com/advogadoswm/"
+  },
+  "location": {
+    "city": "",
+    "regions": "",
+    "address": "",
+    "hours": "",
+    "mapsQuery": ""
+  },
+  "theme": {
+    "primary": "#9B824D",
+    "secondary": "#101010",
+    "style": "Institucional"
+  },
+  "hero": {
+    "title": "Você teve um filho recentemente?",
+    "description": "Entenda se pode ter direito ao salário-maternidade. Orientação jurídica para analisar sua situação e compreender os próximos passos.",
+    "cta": "Quero analisar meu caso"
+  },
+  "audience": "Pessoas que buscam orientação sobre salário-maternidade",
+  "services": [
+    {
+      "title": "Trabalhadoras com carteira assinada",
+      "description": "O vínculo de emprego e a situação na data do nascimento ou adoção são considerados na análise."
+    },
+    {
+      "title": "Autônomas e contribuintes individuais",
+      "description": "Sua atividade profissional, suas contribuições e a qualidade de segurada ajudam a compreender o caso."
+    },
+    {
+      "title": "Microempreendedoras (MEI)",
+      "description": "A condição de MEI e a situação perante o INSS devem ser verificadas individualmente."
+    },
+    {
+      "title": "Pessoas desempregadas",
+      "description": "Pode existir possibilidade quando a qualidade de segurada é mantida após o fim do emprego."
+    }
+  ],
+  "assets": "Marca e quatro imagens originais fornecidas pelo cliente, otimizadas em WebP",
+  "approval": {
+    "responsible": "Fellipe Walker",
+    "approved": false
+  },
+  "pending": [
+    "OAB e identificação profissional completa",
+    "Endereço, região e modalidade de atendimento",
+    "Aprovação final do conteúdo",
+    "Configuração de hospedagem e DNS do domínio"
+  ],
+  "faqs": [
+    [
+      "Preciso estar trabalhando atualmente?",
+      "Não necessariamente. A possibilidade de acesso ao benefício depende da situação previdenciária e dos requisitos aplicáveis ao caso."
+    ],
+    [
+      "Quem é MEI pode ter direito?",
+      "Pode haver possibilidade. É necessário verificar a qualidade de segurada e os demais requisitos aplicáveis à situação."
+    ],
+    [
+      "Fui demitida antes do nascimento. Posso ter direito?",
+      "Em algumas situações, a pessoa pode manter a qualidade de segurada mesmo após deixar o emprego. A análise depende do histórico previdenciário."
+    ],
+    [
+      "Meu pedido foi negado. O que pode ser feito?",
+      "É necessário compreender o motivo da negativa e analisar os documentos e a situação previdenciária para orientar sobre os caminhos possíveis."
+    ],
+    [
+      "Como posso pedir uma análise inicial?",
+      "Entre em contato com a equipe pelo WhatsApp ou por e-mail. Você receberá orientação sobre as informações necessárias para analisar sua situação."
+    ]
+  ]
+}

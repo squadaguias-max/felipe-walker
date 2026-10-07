@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://walkermetzker.com.br/sitemap.xml
